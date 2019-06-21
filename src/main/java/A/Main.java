@@ -2,7 +2,8 @@ package A;
 
 public class Main {
 
-    public static void test (){
+    public static void test (){ //note
+
 
     }
 
